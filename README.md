@@ -1,4 +1,4 @@
-#Simple note app that can save active url and create notes etc
+# Simple note app that can save active url and create notes etc
 
 Save note doesn't work unless used as chrome extension!
 
